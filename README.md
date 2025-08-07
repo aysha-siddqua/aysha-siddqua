@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Advanced Design Patterns, Playwright, Karate API Automation, Cypress**
 
-- 👨‍💻 All of my [projects](https://github.com/aysha-siddqua?tab=repositories) are available here
+- 👨‍💻 All of **my [projects](https://github.com/aysha-siddqua?tab=repositories)** are available here
 
 - 💬 Ask me about **Selenium, SDET, JAVA, REST Assured, POSTMAN**
 
@@ -67,7 +67,7 @@
   &nbsp;
   
   <!-- Portfolio -->
-  <a href="https://ahmed-hasan.github.io/ahmed-hasan-website/" target="_blank" title="Portfolio Website"> 
+  <a href="https://ahmed-hasan.github.io/aysha-siddqua-website/" target="_blank" title="Portfolio Website"> 
     <img src="https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=google-chrome" alt="Portfolio Website"> 
   </a> 
   &nbsp;
@@ -88,26 +88,21 @@
 <a href="https://www.eclipse.org/downloads/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://maven.apache.org/download.cgi" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://testng.org/" target="blank"><img align="center" src="https://github.com/mte-tonmoy/mte-tonmoy/blob/main/Assets/testNG.png" height="60" width="90" /></a>&nbsp;&nbsp;&nbsp;
-
-
 </p>
-
-
-
 
 
 <h3 align="left">Certification Badges</h3>
 <p align="left">
-<a href="https://badgr.com/public/assertions/AgbxJ6RqQWyZL3vNaPM5kg?identity__email=toufique15-13697@diu.edu.bd" target="blank"><img align="center" src="https://api.badgr.io/public/assertions/AgbxJ6RqQWyZL3vNaPM5kg/image" alt="mte-tonmoy" height="100" width="100" /></a>
+<a href="" target="blank"><img align="center" src="https://api.badgr.io/public/assertions/AgbxJ6RqQWyZL3vNaPM5kg/image" alt="mte-tonmoy" height="100" width="100" /></a>
 <a href="" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/bf955a19-7ca9-4ca9-8c19-3c15d93f5a6d/35794be1-4556-4f3d-9fcf-0b3379bf71ce.png" height="100" width="100" /></a>
 <a href="" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob"  height="100" width="100" /></a>
 </p>
 
 
 <h3 align="left">Github Analytics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenanimation20&show_icons=true&locale=en&layout=compact" alt="mte-tonmoy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenanimation20&show_icons=true&locale=en&layout=compact" alt="aysha-siddqua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysha-siddqua&show_icons=true&locale=en" alt="mte-tonmoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysha-siddqua&show_icons=true&locale=en" alt="aysha-siddqua" /></p>
 
 <div align="left">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
