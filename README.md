@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hi+there,+I'm+Aysha+Siddqua...;I'm+a+QA+Automation+Engineer+at+Kroger...;Thank+you+so+much+for+visiting+My+Profile...)](https://#.com)
 <p align="center">
   Welcome to my profile! 🚀<br>
-  I'm passionate about building reliable, scalable, and maintainable test automation frameworks.
+  I'm passionate about building reliable, scalable and maintainable test automation frameworks.
 </p>
 
 <h2 align="center">
@@ -15,14 +15,14 @@
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Aysha Siddqua</h1>
 <h3 align="center">A dedicated Software Quality Assurance professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aysha-siddqua&label=Profile%20views&color=0e75b6&style=flat" alt="mte-tonmoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aysha-siddqua&label=Profile%20views&color=0e75b6&style=flat" alt="aysha-siddqua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mte-tonmoy" alt="mte-tonmoy" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app?username=pavanoltraining&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-<h3 align="left">About Me</h3>
+<h3 align="left">🚀 About Me</h3>
 <img src="Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🔭 I'm a dedicated **QA Automation Engineer** specializing in **API Testing**, **Selenium** and building robust **Automation Frameworks**.
+- 🔭 I'm a passionate **QA Automation Engineer** specializing in **API Testing**, **Selenium** and building robust **Automation Frameworks**.
 
 - 🌱 I constantly **learn** new things to **stay relevant** in the **ever-evolving tech landscape.**
 
@@ -74,7 +74,7 @@
 </p>
 
 
-<h3 align="left">Testing Tools & Technology:</h3>
+<h3 align="left">🛠️ Testing Tools & Technology:</h3>
 <p align="left"> 
 <a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="50" width="50" /></a></a>&nbsp;&nbsp;&nbsp;
 <a href="https://rest-assured.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -90,19 +90,25 @@
 <a href="https://testng.org/" target="blank"><img align="center" src="https://github.com/mte-tonmoy/mte-tonmoy/blob/main/Assets/testNG.png" height="60" width="90" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<h3 align="left">Certification Badges</h3>
+<h3 align="left">🏆 Certification Badges</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://api.badgr.io/public/assertions/AgbxJ6RqQWyZL3vNaPM5kg/image" alt="mte-tonmoy" height="100" width="100" /></a>
 <a href="" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/bf955a19-7ca9-4ca9-8c19-3c15d93f5a6d/35794be1-4556-4f3d-9fcf-0b3379bf71ce.png" height="100" width="100" /></a>
 <a href="" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob"  height="100" width="100" /></a>
 </p>
 
+ <p align="center">
+  <img src="https://img.shields.io/badge/My%20GitHub%20Analytics-1F222E?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=1F222E" />
+</p>
 
-<h3 align="left">Github Analytics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenanimation20&show_icons=true&locale=en&layout=compact" alt="aysha-siddqua" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=im-ahmed-hasan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysha-siddqua&show_icons=true&locale=en" alt="aysha-siddqua" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-ahmed-hasan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&&custom_title=Aysha%20Siddqua's%20GitHub%20Stats&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenanimation20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
 
 <div align="left">
 <img src="https://github.com/im-ahmed-hasan/shape-shift/blob/main/assets/snake.svg" alt="Snake animation" />
