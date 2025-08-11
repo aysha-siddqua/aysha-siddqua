@@ -12,8 +12,8 @@
 </h2>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aysha Siddqua</h1>
-<h3 align="center">I am a dedicated Software Quality Assurance professional</h3>
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Aysha Siddqua</h1>
+<h3 align="center">A dedicated Software Quality Assurance professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysha-siddqua&label=Profile%20views&color=0e75b6&style=flat" alt="mte-tonmoy" /> </p>
 
