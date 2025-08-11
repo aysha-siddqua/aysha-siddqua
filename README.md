@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=QA%20Analyst;QA%20Automation%20Engineer;Test%20Automation%20Expert;&center=true&color=98acf2&width=600&height=50"></a>
+  <a href="https://github.com/aysha-siddqua"><img src="https://readme-typing-svg.herokuapp.com?lines=QA%20Analyst;QA%20Automation%20Engineer;Test%20Automation%20Expert;&center=true&color=98acf2&width=600&height=50"></a>
 </h2>
 </div>
 
@@ -22,27 +22,27 @@
 <h3 align="left">About Me</h3>
 <img src="Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🔭 I’m currently working on **API Testing, Selenium, Automation Frameworks**
+- 🔭 I'm a dedicated **QA Automation Engineer** specializing in **API Testing**, **Selenium** and building robust **Automation Frameworks**.
 
-- 🌱 I’m currently learning **Advanced Design Patterns, Playwright, Karate API Automation, Cypress**
+- 🌱 I constantly **learn** new things to **stay relevant** in the **ever-evolving tech landscape.**
 
-- 👨‍💻 All of **my [projects](https://github.com/aysha-siddqua?tab=repositories)** are available here
+- 👨‍💻 All of **my [projects](https://github.com/aysha-siddqua?tab=repositories)** are available here.
 
-- 💬 Ask me about **Selenium, SDET, JAVA, REST Assured, POSTMAN**
+- 💬 Feel free to ask me about **Selenium, Java, REST Assured, Postman** or anything related to the **QA Automation** field.
 
-- 📫 [Click here to email me](mailto:ayshasiddquaqa@gmail.com)
+- 📫 **[Click here to email me](mailto:ayshasiddquaqa@gmail.com)**
 
 
 
 <h3 align="center">🌐 Connect with Me</h3> 
 <p align="center"> 
-  <!-- Phone (Light Blue) -->
+  <!-- Phone -->
   <a href="tel:+1234567890" target="_blank" title="Phone">
     <img src="https://img.shields.io/badge/Phone-lightblue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
   </a>
   &nbsp;
   
-  <!-- WhatsApp (Dark Green) -->
+  <!-- WhatsApp -->
   <a href="https://wa.me/+16464277830" target="_blank" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
@@ -54,7 +54,7 @@
   </a> 
   &nbsp;
   
-  <!-- Telegram (Light Gray & Blue Logo) -->
+  <!-- Telegram -->
   <a href="https://t.me/your_telegram_username" target="_blank" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram">
   </a>
