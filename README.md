@@ -105,5 +105,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysha-siddqua&show_icons=true&locale=en" alt="aysha-siddqua" /></p>
 
 <div align="left">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://github.com/im-ahmed-hasan/shape-shift/blob/main/assets/snake.svg" alt="Snake animation" />
 </div>  
